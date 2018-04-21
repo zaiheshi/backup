@@ -1,0 +1,8 @@
+zt: 当前行显示为屏幕第一行
+zz: 当前行显示为屏幕中间
+zb: 当前行显示为屏幕末尾
+
+ctrl-f
+ctrl-b
+ctrl-u
+ctrl-d
